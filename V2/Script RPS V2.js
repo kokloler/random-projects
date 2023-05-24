@@ -120,6 +120,6 @@
     testBtn.addEventListener("click", function(event) { 
         console.log(resultOutput.innerHTML)
         console.log(computerOutput.innerHTML)
-        console.log(humanoutput.innerHTML)
+        console.log(humanOutput.innerHTML)
 
     });
