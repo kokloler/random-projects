@@ -4,10 +4,5 @@ body {
 }
 
 span {
-    text-align: center;
-    object-position: center;
-}
-
-.text { 
-    text-align: center;
+    font-size: 25px;
 }
